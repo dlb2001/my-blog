@@ -3,9 +3,8 @@
 layout: home
 
 hero:
-  name: "我的文档"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "党露彬博客"
+  tagline: 筑基期前端
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,10 +14,10 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 前端开发
+    details: 筑基期
+  - title: 后端开发
+    details: 筑基期
+  - title: nodejs
+    details: pengding...
 ---

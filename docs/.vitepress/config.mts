@@ -2,9 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
+  title: "Dang's Blog",
   description: "A VitePress Site",
+  head: [["link", { rel: "icon", href: "/logo.png" }]],
   themeConfig: {
+    logo: '/logo.png',
+    siteTitle: false,
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
